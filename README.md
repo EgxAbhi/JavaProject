@@ -59,7 +59,7 @@ Ensure you have the following installed:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Harsh-Saini-1/java-project.git
+   git clone https://github.com/EgxAbhi/JavaProject.git
    ```
 
 2. **Open in IntelliJ IDEA**:
