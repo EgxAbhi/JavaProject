@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55fc9eff-590e-4142-ae36-479987bf3475" name="Changes" comment="System Update/Improvement&#10;Localization Support and Additional Features">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz_app.db" beforeDir="false" afterPath="$PROJECT_DIR$/quiz_app.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/vox/drei/about-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/vox/drei/about-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/vox/drei/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/vox/drei/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/vox/drei/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/vox/drei/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/messages_en.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/messages_en.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;VoxDroid&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/VoxDroid/Java-Quiz-App.git&quot;,
+    &quot;accountId&quot;: &quot;9482bf4c-6d33-489d-8489-8b38961921dd&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2nB89eD8WXzjBeUNrz1K9GxTCGI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DreiMain.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Harsh Saini/Java-Quiz-App/src/main/resources/com/vox/drei&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Harsh Saini\Java-Quiz-App\src\main\resources\com\vox\drei" />
+      <recent name="C:\Users\Drei\IdeaProjects\dreizel\src\main\resources\com\vox\drei" />
+      <recent name="C:\Users\Drei\IdeaProjects\dreizel\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Drei\IdeaProjects\dreizel\src\main\resources" />
+      <recent name="C:\Users\Drei\IdeaProjects\dreizel\src\main\resources\com\vox\drei" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../Program Files/Java/jdk-25" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.vox.drei.DreiMain" />
+      <module name="drei" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx-sdk-25.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="dreizel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="dreizel" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55fc9eff-590e-4142-ae36-479987bf3475" name="Changes" comment="" />
+      <created>1728434961052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728434961052</updated>
+      <workItem from="1728434962037" duration="11637000" />
+      <workItem from="1728545500470" duration="3777000" />
+      <workItem from="1728605491481" duration="20255000" />
+      <workItem from="1728702760408" duration="18870000" />
+      <workItem from="1728722834874" duration="701000" />
+      <workItem from="1728778705281" duration="22353000" />
+      <workItem from="1729464799996" duration="607000" />
+      <workItem from="1730347996537" duration="322000" />
+      <workItem from="1733308994755" duration="298000" />
+      <workItem from="1733617978582" duration="292000" />
+      <workItem from="1762695952854" duration="2469000" />
+      <workItem from="1762698466258" duration="1713000" />
+      <workItem from="1762749640046" duration="67000" />
+      <workItem from="1762755599576" duration="2975000" />
+      <workItem from="1762767373615" duration="1080000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Quiz System">
+      <option name="closed" value="true" />
+      <created>1728439591267</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728439591267</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Quiz System">
+      <option name="closed" value="true" />
+      <created>1728439711293</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728439711293</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial Quiz System">
+      <option name="closed" value="true" />
+      <created>1728439782134</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728439782134</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial Quiz System">
+      <option name="closed" value="true" />
+      <created>1728439976266</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728439976266</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial Quiz System">
+      <option name="closed" value="true" />
+      <created>1728440027810</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728440027810</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial Quiz System">
+      <option name="closed" value="true" />
+      <created>1728442170916</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728442170916</updated>
+    </task>
+    <task id="LOCAL-00007" summary="System Update">
+      <option name="closed" value="true" />
+      <created>1728445153984</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728445153984</updated>
+    </task>
+    <task id="LOCAL-00008" summary="System Update/Improvement">
+      <option name="closed" value="true" />
+      <created>1728446966465</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728446966465</updated>
+    </task>
+    <task id="LOCAL-00009" summary="System Update/Improvement">
+      <option name="closed" value="true" />
+      <created>1728549235191</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1728549235191</updated>
+    </task>
+    <task id="LOCAL-00010" summary="System Update/Improvement">
+      <option name="closed" value="true" />
+      <created>1728608661695</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728608661695</updated>
+    </task>
+    <task id="LOCAL-00011" summary="System Update/Improvement">
+      <option name="closed" value="true" />
+      <created>1728608955062</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1728608955062</updated>
+    </task>
+    <task id="LOCAL-00012" summary="System Update/Improvement">
+      <option name="closed" value="true" />
+      <created>1728610617011</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1728610617011</updated>
+    </task>
+    <task id="LOCAL-00013" summary="System Update/Improvement">
+      <option name="closed" value="true" />
+      <created>1728613058118</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1728613058118</updated>
+    </task>
+    <task id="LOCAL-00014" summary="System Update/Improvement">
+      <option name="closed" value="true" />
+      <created>1728615714124</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1728615714124</updated>
+    </task>
+    <task id="LOCAL-00015" summary="System Update/Improvement">
+      <option name="closed" value="true" />
+      <created>1728621379787</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1728621379787</updated>
+    </task>
+    <task id="LOCAL-00016" summary="System Update/Improvement">
+      <option name="closed" value="true" />
+      <created>1728622536049</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1728622536049</updated>
+    </task>
+    <task id="LOCAL-00017" summary="System Update/Improvement">
+      <option name="closed" value="true" />
+      <created>1728625541859</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1728625541859</updated>
+    </task>
+    <task id="LOCAL-00018" summary="System Update/Improvement">
+      <option name="closed" value="true" />
+      <created>1728625869625</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1728625869625</updated>
+    </task>
+    <task id="LOCAL-00019" summary="System Update/Improvement">
+      <option name="closed" value="true" />
+      <created>1728625991962</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1728625991962</updated>
+    </task>
+    <task id="LOCAL-00020" summary="System Update/Improvement">
+      <option name="closed" value="true" />
+      <created>1728626232449</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1728626232449</updated>
+    </task>
+    <task id="LOCAL-00021" summary="System Update/Improvement">
+      <option name="closed" value="true" />
+      <created>1728704896483</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1728704896483</updated>
+    </task>
+    <task id="LOCAL-00022" summary="System Update/Improvement">
+      <option name="closed" value="true" />
+      <created>1728707091961</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1728707091961</updated>
+    </task>
+    <task id="LOCAL-00023" summary="System Update/Improvement">
+      <option name="closed" value="true" />
+      <created>1728711062789</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1728711062789</updated>
+    </task>
+    <task id="LOCAL-00024" summary="System Update/Improvement">
+      <option name="closed" value="true" />
+      <created>1728720087693</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1728720087693</updated>
+    </task>
+    <task id="LOCAL-00025" summary="System Update/Improvement">
+      <option name="closed" value="true" />
+      <created>1728721186044</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1728721186044</updated>
+    </task>
+    <task id="LOCAL-00026" summary="System Update/Improvement">
+      <option name="closed" value="true" />
+      <created>1728721619879</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1728721619879</updated>
+    </task>
+    <task id="LOCAL-00027" summary="System Update/Improvement">
+      <option name="closed" value="true" />
+      <created>1728722795181</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1728722795181</updated>
+    </task>
+    <task id="LOCAL-00028" summary="System Update/Improvement">
+      <option name="closed" value="true" />
+      <created>1728722849731</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1728722849731</updated>
+    </task>
+    <task id="LOCAL-00029" summary="System Update/Improvement&#10;Finished Immediately Show Correct Answers Feature">
+      <option name="closed" value="true" />
+      <created>1728779818061</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1728779818061</updated>
+    </task>
+    <task id="LOCAL-00030" summary="System Update/Improvement&#10;About me Page">
+      <option name="closed" value="true" />
+      <created>1728783014430</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1728783014430</updated>
+    </task>
+    <task id="LOCAL-00031" summary="System Update/Improvement&#10;Improved Quiz Game View">
+      <option name="closed" value="true" />
+      <created>1728784822401</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1728784822401</updated>
+    </task>
+    <task id="LOCAL-00032" summary="System Update/Improvement&#10;Minor Cleaning">
+      <option name="closed" value="true" />
+      <created>1728785150761</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1728785150761</updated>
+    </task>
+    <task id="LOCAL-00033" summary="System Update/Improvement&#10;Localization Support and Additional Features">
+      <option name="closed" value="true" />
+      <created>1728800939064</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1728800939064</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Quiz System" />
+    <MESSAGE value="System Update" />
+    <MESSAGE value="System Update/Improvement" />
+    <MESSAGE value="System Update/Improvement&#10;Finished Immediately Show Correct Answers Feature" />
+    <MESSAGE value="System Update/Improvement&#10;About me Page" />
+    <MESSAGE value="System Update/Improvement&#10;Improved Quiz Game View" />
+    <MESSAGE value="System Update/Improvement&#10;Minor Cleaning" />
+    <MESSAGE value="System Update/Improvement&#10;Localization Support and Additional Features" />
+    <option name="LAST_COMMIT_MESSAGE" value="System Update/Improvement&#10;Localization Support and Additional Features" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/com/vox/drei/AboutController.java</url>
+          <line>36</line>
+          <properties field="bundle" class="com.vox.drei.AboutController" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
